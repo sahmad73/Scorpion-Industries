@@ -1,0 +1,24 @@
+{
+  "name": "scorpion-industries",
+  "version": "1.0.0",
+  "description": "Scoprion Industries Website",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahmad73/Scorpion-Industries.git"
+  },
+  "author": "Sharjeel Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahmad73/Scorpion-Industries/issues"
+  },
+  "homepage": "https://github.com/sahmad73/Scorpion-Industries#readme"
+}
